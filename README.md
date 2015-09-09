@@ -6,5 +6,5 @@ data it uses [boltdb](https://github.com/boltdb/bolt).
 
 ## TODO
 
-[ ] Add meaningful tests
-[ ] Add documentation
+- [ ] Add meaningful tests
+- [ ] Add documentation
